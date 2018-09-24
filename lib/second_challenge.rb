@@ -18,7 +18,7 @@ def second_challenge
       :heroine => [
         {name: "Steven", age: "30", attitude: "confused"},
           {name: "Nurse", age: "44", attitude: "worried"}
-        
+
       ]
       }
     }
